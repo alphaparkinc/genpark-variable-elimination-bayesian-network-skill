@@ -1,0 +1,13 @@
+{
+  "name": "genpark-variable-elimination-bayesian-network-skill",
+  "version": "1.0.0",
+  "description": "Exact Variable Elimination inference engine for discrete Bayesian Networks computing conditional posteriors and marginal probability distributions.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bayesian-network",
+    "variable-elimination",
+    "probabilistic-graphical-models",
+    "exact-inference"
+  ]
+}
